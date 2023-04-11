@@ -35,9 +35,9 @@ I'm Aaron, a web developer from Germany.
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=Axpye&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Axpye&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axpye&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axpye&theme=transparent&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Axpye&theme=transparent&hide_border=true)<br/>
+
 
 ---
 
