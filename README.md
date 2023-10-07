@@ -8,7 +8,7 @@ I'm Aaron, a web developer from Germany.
 ## 🌐 Socials:
 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Axpye) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/4jWJjg9SY3) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/axpye2)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/axpyestudios) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/4jWJjg9SY3) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/axpyestudios)
 
 
 ---
@@ -17,7 +17,7 @@ I'm Aaron, a web developer from Germany.
 # 👨🏻‍💻 Tech Skills:
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,vue,cpp,cloudflare,bots,docker,github,linux,lua,mysql,powershell,py,ts,vscode,php)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,vue,cpp,cloudflare,bots,github,linux,lua,mysql,powershell,py,ts,vscode,php)
 
 
 ---
